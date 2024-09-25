@@ -9,6 +9,7 @@ langchain-huggingface
 transformers
 openai
 tiktoken
+python-dotenv
 
 #installing setup.py
 -e .  # this will look for setup.py file and run it
