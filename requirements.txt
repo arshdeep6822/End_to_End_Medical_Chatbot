@@ -1,5 +1,11 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
+ctransformers
 pinecone-client
-langchain==0.0.225
+langchain
 flask
+pypdf
+langchain_pinecone
+langchain-community
+langchain-huggingface
+transformers
+openai
+tiktoken
