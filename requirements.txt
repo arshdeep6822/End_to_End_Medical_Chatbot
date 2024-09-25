@@ -10,6 +10,7 @@ transformers
 openai
 tiktoken
 python-dotenv
+langchain-openai
 
 #installing setup.py
 -e .  # this will look for setup.py file and run it
