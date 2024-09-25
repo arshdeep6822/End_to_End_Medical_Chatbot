@@ -9,6 +9,3 @@ langchain-huggingface
 transformers
 openai
 tiktoken
-
-#installing setup.py
--e .  # this will look for setup.py file and run it

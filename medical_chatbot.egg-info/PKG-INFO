@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: medical_chatbot
+Version: 0.0.0
+Author: Arshdeep Singh
+Author-email: deeparsh618@gmail.com
+Requires-Dist: ctransformers
+Requires-Dist: pinecone-client
+Requires-Dist: langchain
+Requires-Dist: flask
+Requires-Dist: pypdf
+Requires-Dist: langchain_pinecone
+Requires-Dist: langchain-community
+Requires-Dist: langchain-huggingface
+Requires-Dist: transformers
+Requires-Dist: openai
+Requires-Dist: tiktoken
